@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.container{
+	margin-right: 20px !important;
+}
+
+form > button{
+	width: 50%;
+	margin-left: 25% !important;;
+	margin-right: 25% !important;;
+}
