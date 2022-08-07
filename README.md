@@ -2,7 +2,7 @@
 
 ## Prevencija napada ##
 
-Markup : * DOS attack
-         * SQL injection
-         * Parameter Tampering
-         * XSS attack
+* DOS attack
+* SQL injection
+* Parameter Tampering
+* XSS attack
