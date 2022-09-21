@@ -9,7 +9,7 @@
 
 ## Navigation
 
-1. Login(#login)
+1. [Login](#login)
 2. Kreiranje Naloga
 
 ### Login
